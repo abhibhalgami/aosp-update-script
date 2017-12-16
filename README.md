@@ -2,6 +2,6 @@
 
 #Installation 
 
-:~$ sudo chmod +x gapps.sh & ./gapps.sh <IP_ADDRESS>
++ sudo chmod +x gapps.sh & ./gapps.sh <IP_ADDRESS>
 
 #Enjoy!
